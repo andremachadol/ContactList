@@ -18,6 +18,12 @@
         android:layout_height="wrap_content"
         android:text="@string/email"/>
 
+    <TextView
+        android:id="@+id/telefoneTv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/telefone"/>
+
 
 
 </LinearLayout>
